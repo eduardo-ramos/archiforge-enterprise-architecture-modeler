@@ -1,0 +1,5 @@
+{
+  "name": "ArchiForge - Enterprise Architecture Modeler",
+  "description": "A web-based SaaS tool for Enterprise Architects to model, visualize, and manage the company landscape using the ArchiMate 3.2 specification, with support for the TOGAF 9.2 Architecture Development Method (ADM) lifecycle.",
+  "requestFramePermissions": []
+}
