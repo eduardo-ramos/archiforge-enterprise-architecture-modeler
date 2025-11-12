@@ -2,8 +2,8 @@ import React from 'react';
 import { ReactFlowProvider } from 'reactflow';
 import 'reactflow/dist/style.css';
 
-import ArchiCanvas from './components/ArchiCanvas';
-import Palette from './components/Palette';
+import ArchiCanvas from '@/components/ArchiCanvas';
+import Palette from '@/components/Palette';
 
 const App: React.FC = () => {
   return (

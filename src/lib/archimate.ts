@@ -1,4 +1,4 @@
-import { ArchiElementType, ArchiRelationshipType } from '../types';
+import { ArchiElementType, ArchiRelationshipType } from '@/types';
 
 // Esta é uma matriz de validação conceitual simplificada.
 // Uma aplicação real teria uma matriz abrangente.

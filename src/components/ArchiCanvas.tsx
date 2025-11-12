@@ -14,9 +14,9 @@ import ReactFlow, {
   Connection,
 } from 'reactflow';
 
-import { ArchiElementType } from '../types';
-import { getValidRelationshipType } from '../lib/archimate';
-import CustomNode from './CustomNode';
+import { ArchiElementType } from '@/types';
+import { getValidRelationshipType } from '@/lib/archimate';
+import CustomNode from '@/components/CustomNode';
 
 const initialNodes: Node[] = [
   { id: '1', type: 'custom', position: { x: 250, y: 5 }, data: { type: ArchiElementType.BUSINESS_PROCESS, name: 'Handle Claim' } },

@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArchiElementType } from '../types';
+import { ArchiElementType } from '@/types';
 
 const icons: Record<ArchiElementType, React.ReactNode> = {
   [ArchiElementType.APPLICATION_COMPONENT]: (

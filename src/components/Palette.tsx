@@ -1,6 +1,6 @@
 import React from 'react';
-import { ArchiLayer, ArchiElementType } from '../types';
-import { getArchiIcon } from './ArchiIcons';
+import { ArchiLayer, ArchiElementType } from '@/types';
+import { getArchiIcon } from '@/components/ArchiIcons';
 
 interface PaletteItem {
   type: ArchiElementType;

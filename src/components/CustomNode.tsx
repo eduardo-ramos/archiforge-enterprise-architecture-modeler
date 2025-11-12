@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 import { Handle, Position, NodeProps } from 'reactflow';
-import { ArchiElementType } from '../types';
-import { getArchiIcon } from './ArchiIcons';
+import { ArchiElementType } from '@/types';
+import { getArchiIcon } from '@/components/ArchiIcons';
 
 interface CustomNodeData {
   type: ArchiElementType;
